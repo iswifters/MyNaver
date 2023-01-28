@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyNaver</string>
+    <string name="title_home">Me</string>
+    <string name="title_dashboard">My Family</string>
+    <string name="title_notifications">My Friends</string>
+</resources>
